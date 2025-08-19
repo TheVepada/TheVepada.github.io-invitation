@@ -1,0 +1,20 @@
+.author-details {
+    background: #e3eafc;
+    border: 1px solid #b3c6e7;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 2rem;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.author-details img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #b3c6e7;
+    margin-bottom: 1rem;
+}
