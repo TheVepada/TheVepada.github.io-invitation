@@ -1,20 +1,83 @@
-.author-details {
-    background: #fff8f0;
-    border: 1px solid #b3c6e7;
+body{
+        background: #fff8f0;
+
+}
+
+h1{
+    color: #6b411f;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+h2 {
+    color: #ae8978;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+.invi {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+    border: 1px solid #d19a5f;
     border-radius: 8px;
-    padding: 20px;
-    margin-top: 2rem;
-    max-width: 400px;
+    padding: 50px;
+    margin-top: 3rem;
+    max-width: 60%;
+    max-height: 90%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
-.author-details img {
+
+
+
+#p2 {
+ 
     width: 120px;
     height: 120px;
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid #b3c6e7;
     margin-bottom: 1rem;
+    padding: auto;
 }
+#p1 {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #b3c6e7;
+    margin-bottom: 1rem;
+    padding: auto;
+}
+.pic2 {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: 20px;
+}
+.pic1 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 20px;
+}
+.chobi {
+    display: flex ;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+#ok,
+#es{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
