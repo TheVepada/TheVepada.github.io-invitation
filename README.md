@@ -23,11 +23,6 @@ This repository contains my work for the evaluation, showcasing my progress and 
 
 ---
 
-## 🖼️ Preview
-
-> _Add screenshots or links here if you want to show off your work visually._
-
----
 
 ## 📌 Notes
 
