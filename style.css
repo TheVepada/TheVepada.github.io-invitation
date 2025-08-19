@@ -1,17 +1,18 @@
 body{
-        background: #fff8f0;
+    font-family: "Schoolbell", cursive;
+          background: #fff8f0;
 
 }
 
 h1{
     color: #6b411f;
-    font-family: 'Arial', sans-serif;
+   font-family: "Schoolbell", cursive;
     text-align: center;
     margin-top: 20px;
 }
 h2 {
     color: #A2684B;
-    font-family: 'Arial', sans-serif;
+  font-family: "Schoolbell", cursive;
     text-align: center;
     margin-top: 10px;
 }
@@ -22,7 +23,7 @@ h2 {
     display: block;
     justify-content: center;
     align-items: center;
-    background: #FFF8F3;
+    background: #e7d0b1;
     border: 6px solid #C9A78F;
     border-radius: 8px;
     padding: 50px;
@@ -80,10 +81,7 @@ h2 {
     justify-content: center;
     text-align: left;
 }
-.invi h1,h2,h3,p, #ok,#es 
-{
-  font-family: 'Playfair-Display', cursive;
-}
+
 h1{
     font-size: 60px;
     
@@ -97,4 +95,5 @@ font-size: 20px;
 #foot {
     text-align: center;
 }
+
 
